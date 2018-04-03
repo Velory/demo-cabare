@@ -1,0 +1,14 @@
+[{
+  "raw_material_id":"1",
+  "quantity":"25",
+  "alternatives":[{
+      "raw_material_id":"2",
+      "quantity":"30",
+      "level":"1"
+  },
+  {
+      "raw_material_id":"3",
+      "quantity":"35",
+      "level":"2"
+    }]
+}]
